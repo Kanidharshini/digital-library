@@ -1,1 +1,1 @@
-# digital-libr
+# digital-library
